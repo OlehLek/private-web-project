@@ -1,0 +1,21 @@
+@import url(./global/global.footer.partial.css);
+@import url(./global/global.header.partial.css);
+@import url(./index/index.contact.partial.css);
+@import url(./index/index.features.partial.css);
+@import url(./index/index.newsletter.partial.css);
+@import url(./index/index.organize.partial.css);
+@import url(./index/index.partners.partial.css);
+@import url(./index/index.pricing.partial.css);
+@import url(./index/index.testimonials.partial.css);
+
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* :root{
+    
+} */
